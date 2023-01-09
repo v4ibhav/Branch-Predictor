@@ -1,0 +1,6 @@
+COMMAND
+./sim bimodal 8 traces/perl_trace.txt
+OUTPUT
+ number of predictions:	2000000
+ number of mispredictions:	329056
+ misprediction rate:	16.45%

@@ -1,0 +1,6 @@
+COMMAND
+./sim bimodal 17 traces/gcc_trace.txt
+OUTPUT
+ number of predictions:	2000000
+ number of mispredictions:	223729
+ misprediction rate:	11.19%

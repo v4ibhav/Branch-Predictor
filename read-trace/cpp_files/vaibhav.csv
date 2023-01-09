@@ -1,0 +1,490 @@
+gcc_trace.txt_bimodal_10_gcc_trace.txt: number of mispredictions:	313427
+gcc_trace.txt_bimodal_10_gcc_trace.txt: misprediction rate:	15.67%
+gcc_trace.txt_bimodal_11_gcc_trace.txt: number of mispredictions:	273003
+gcc_trace.txt_bimodal_11_gcc_trace.txt: misprediction rate:	13.65%
+gcc_trace.txt_bimodal_12_gcc_trace.txt: number of mispredictions:	249344
+gcc_trace.txt_bimodal_12_gcc_trace.txt: misprediction rate:	12.47%
+gcc_trace.txt_bimodal_13_gcc_trace.txt: number of mispredictions:	234386
+gcc_trace.txt_bimodal_13_gcc_trace.txt: misprediction rate:	11.72%
+gcc_trace.txt_bimodal_14_gcc_trace.txt: number of mispredictions:	227415
+gcc_trace.txt_bimodal_14_gcc_trace.txt: misprediction rate:	11.37%
+gcc_trace.txt_bimodal_15_gcc_trace.txt: number of mispredictions:	225919
+gcc_trace.txt_bimodal_15_gcc_trace.txt: misprediction rate:	11.30%
+gcc_trace.txt_bimodal_16_gcc_trace.txt: number of mispredictions:	224123
+gcc_trace.txt_bimodal_16_gcc_trace.txt: misprediction rate:	11.21%
+gcc_trace.txt_bimodal_17_gcc_trace.txt: number of mispredictions:	223729
+gcc_trace.txt_bimodal_17_gcc_trace.txt: misprediction rate:	11.19%
+gcc_trace.txt_bimodal_18_gcc_trace.txt: number of mispredictions:	223476
+gcc_trace.txt_bimodal_18_gcc_trace.txt: misprediction rate:	11.17%
+gcc_trace.txt_bimodal_19_gcc_trace.txt: number of mispredictions:	223489
+gcc_trace.txt_bimodal_19_gcc_trace.txt: misprediction rate:	11.17%
+gcc_trace.txt_bimodal_20_gcc_trace.txt: number of mispredictions:	223489
+gcc_trace.txt_bimodal_20_gcc_trace.txt: misprediction rate:	11.17%
+gcc_trace.txt_bimodal_7_gcc_trace.txt: number of mispredictions:	532970
+gcc_trace.txt_bimodal_7_gcc_trace.txt: misprediction rate:	26.65%
+gcc_trace.txt_bimodal_8_gcc_trace.txt: number of mispredictions:	448572
+gcc_trace.txt_bimodal_8_gcc_trace.txt: misprediction rate:	22.43%
+gcc_trace.txt_bimodal_9_gcc_trace.txt: number of mispredictions:	369866
+gcc_trace.txt_bimodal_9_gcc_trace.txt: misprediction rate:	18.49%
+gshare_10_0_gcc_trace.txt:number of mispredictions:	313427
+gshare_10_0_gcc_trace.txt:misprediction rate:	15.67%
+gshare_10_10_gcc_trace.txt:number of mispredictions:	455390
+gshare_10_10_gcc_trace.txt:misprediction rate:	22.77%
+gshare_10_1_gcc_trace.txt:number of mispredictions:	315900
+gshare_10_1_gcc_trace.txt:misprediction rate:	15.79%
+gshare_10_2_gcc_trace.txt:number of mispredictions:	327851
+gshare_10_2_gcc_trace.txt:misprediction rate:	16.39%
+gshare_10_3_gcc_trace.txt:number of mispredictions:	349065
+gshare_10_3_gcc_trace.txt:misprediction rate:	17.45%
+gshare_10_4_gcc_trace.txt:number of mispredictions:	359849
+gshare_10_4_gcc_trace.txt:misprediction rate:	17.99%
+gshare_10_5_gcc_trace.txt:number of mispredictions:	362190
+gshare_10_5_gcc_trace.txt:misprediction rate:	18.11%
+gshare_10_6_gcc_trace.txt:number of mispredictions:	387262
+gshare_10_6_gcc_trace.txt:misprediction rate:	19.36%
+gshare_10_7_gcc_trace.txt:number of mispredictions:	407972
+gshare_10_7_gcc_trace.txt:misprediction rate:	20.40%
+gshare_10_8_gcc_trace.txt:number of mispredictions:	422021
+gshare_10_8_gcc_trace.txt:misprediction rate:	21.10%
+gshare_10_9_gcc_trace.txt:number of mispredictions:	438182
+gshare_10_9_gcc_trace.txt:misprediction rate:	21.91%
+gshare_11_0_gcc_trace.txt:number of mispredictions:	273003
+gshare_11_0_gcc_trace.txt:misprediction rate:	13.65%
+gshare_11_10_gcc_trace.txt:number of mispredictions:	366769
+gshare_11_10_gcc_trace.txt:misprediction rate:	18.34%
+gshare_11_11_gcc_trace.txt:number of mispredictions:	378673
+gshare_11_11_gcc_trace.txt:misprediction rate:	18.93%
+gshare_11_1_gcc_trace.txt:number of mispredictions:	272891
+gshare_11_1_gcc_trace.txt:misprediction rate:	13.64%
+gshare_11_2_gcc_trace.txt:number of mispredictions:	274296
+gshare_11_2_gcc_trace.txt:misprediction rate:	13.71%
+gshare_11_3_gcc_trace.txt:number of mispredictions:	285883
+gshare_11_3_gcc_trace.txt:misprediction rate:	14.29%
+gshare_11_4_gcc_trace.txt:number of mispredictions:	289768
+gshare_11_4_gcc_trace.txt:misprediction rate:	14.49%
+gshare_11_5_gcc_trace.txt:number of mispredictions:	293362
+gshare_11_5_gcc_trace.txt:misprediction rate:	14.67%
+gshare_11_6_gcc_trace.txt:number of mispredictions:	302761
+gshare_11_6_gcc_trace.txt:misprediction rate:	15.14%
+gshare_11_7_gcc_trace.txt:number of mispredictions:	315564
+gshare_11_7_gcc_trace.txt:misprediction rate:	15.78%
+gshare_11_8_gcc_trace.txt:number of mispredictions:	329365
+gshare_11_8_gcc_trace.txt:misprediction rate:	16.47%
+gshare_11_9_gcc_trace.txt:number of mispredictions:	345512
+gshare_11_9_gcc_trace.txt:misprediction rate:	17.28%
+gshare_12_0_gcc_trace.txt:number of mispredictions:	249344
+gshare_12_0_gcc_trace.txt:misprediction rate:	12.47%
+gshare_12_10_gcc_trace.txt:number of mispredictions:	286523
+gshare_12_10_gcc_trace.txt:misprediction rate:	14.33%
+gshare_12_11_gcc_trace.txt:number of mispredictions:	296541
+gshare_12_11_gcc_trace.txt:misprediction rate:	14.83%
+gshare_12_12_gcc_trace.txt:number of mispredictions:	308098
+gshare_12_12_gcc_trace.txt:misprediction rate:	15.40%
+gshare_12_1_gcc_trace.txt:number of mispredictions:	240766
+gshare_12_1_gcc_trace.txt:misprediction rate:	12.04%
+gshare_12_2_gcc_trace.txt:number of mispredictions:	243917
+gshare_12_2_gcc_trace.txt:misprediction rate:	12.20%
+gshare_12_3_gcc_trace.txt:number of mispredictions:	241853
+gshare_12_3_gcc_trace.txt:misprediction rate:	12.09%
+gshare_12_4_gcc_trace.txt:number of mispredictions:	244675
+gshare_12_4_gcc_trace.txt:misprediction rate:	12.23%
+gshare_12_5_gcc_trace.txt:number of mispredictions:	250051
+gshare_12_5_gcc_trace.txt:misprediction rate:	12.50%
+gshare_12_6_gcc_trace.txt:number of mispredictions:	249123
+gshare_12_6_gcc_trace.txt:misprediction rate:	12.46%
+gshare_12_7_gcc_trace.txt:number of mispredictions:	253953
+gshare_12_7_gcc_trace.txt:misprediction rate:	12.70%
+gshare_12_8_gcc_trace.txt:number of mispredictions:	260043
+gshare_12_8_gcc_trace.txt:misprediction rate:	13.00%
+gshare_12_9_gcc_trace.txt:number of mispredictions:	274794
+gshare_12_9_gcc_trace.txt:misprediction rate:	13.74%
+gshare_13_0_gcc_trace.txt:number of mispredictions:	234386
+gshare_13_0_gcc_trace.txt:misprediction rate:	11.72%
+gshare_13_10_gcc_trace.txt:number of mispredictions:	233535
+gshare_13_10_gcc_trace.txt:misprediction rate:	11.68%
+gshare_13_11_gcc_trace.txt:number of mispredictions:	242622
+gshare_13_11_gcc_trace.txt:misprediction rate:	12.13%
+gshare_13_12_gcc_trace.txt:number of mispredictions:	253554
+gshare_13_12_gcc_trace.txt:misprediction rate:	12.68%
+gshare_13_13_gcc_trace.txt:number of mispredictions:	257469
+gshare_13_13_gcc_trace.txt:misprediction rate:	12.87%
+gshare_13_1_gcc_trace.txt:number of mispredictions:	228843
+gshare_13_1_gcc_trace.txt:misprediction rate:	11.44%
+gshare_13_2_gcc_trace.txt:number of mispredictions:	222102
+gshare_13_2_gcc_trace.txt:misprediction rate:	11.11%
+gshare_13_3_gcc_trace.txt:number of mispredictions:	215766
+gshare_13_3_gcc_trace.txt:misprediction rate:	10.79%
+gshare_13_4_gcc_trace.txt:number of mispredictions:	211351
+gshare_13_4_gcc_trace.txt:misprediction rate:	10.57%
+gshare_13_5_gcc_trace.txt:number of mispredictions:	212862
+gshare_13_5_gcc_trace.txt:misprediction rate:	10.64%
+gshare_13_6_gcc_trace.txt:number of mispredictions:	211873
+gshare_13_6_gcc_trace.txt:misprediction rate:	10.59%
+gshare_13_7_gcc_trace.txt:number of mispredictions:	211218
+gshare_13_7_gcc_trace.txt:misprediction rate:	10.56%
+gshare_13_8_gcc_trace.txt:number of mispredictions:	219904
+gshare_13_8_gcc_trace.txt:misprediction rate:	11.00%
+gshare_13_9_gcc_trace.txt:number of mispredictions:	226033
+gshare_13_9_gcc_trace.txt:misprediction rate:	11.30%
+gshare_14_0_gcc_trace.txt:number of mispredictions:	227415
+gshare_14_0_gcc_trace.txt:misprediction rate:	11.37%
+gshare_14_10_gcc_trace.txt:number of mispredictions:	196660
+gshare_14_10_gcc_trace.txt:misprediction rate:	9.83%
+gshare_14_11_gcc_trace.txt:number of mispredictions:	201892
+gshare_14_11_gcc_trace.txt:misprediction rate:	10.09%
+gshare_14_12_gcc_trace.txt:number of mispredictions:	209513
+gshare_14_12_gcc_trace.txt:misprediction rate:	10.48%
+gshare_14_13_gcc_trace.txt:number of mispredictions:	217921
+gshare_14_13_gcc_trace.txt:misprediction rate:	10.90%
+gshare_14_14_gcc_trace.txt:number of mispredictions:	222673
+gshare_14_14_gcc_trace.txt:misprediction rate:	11.13%
+gshare_14_1_gcc_trace.txt:number of mispredictions:	215174
+gshare_14_1_gcc_trace.txt:misprediction rate:	10.76%
+gshare_14_2_gcc_trace.txt:number of mispredictions:	208474
+gshare_14_2_gcc_trace.txt:misprediction rate:	10.42%
+gshare_14_3_gcc_trace.txt:number of mispredictions:	200857
+gshare_14_3_gcc_trace.txt:misprediction rate:	10.04%
+gshare_14_4_gcc_trace.txt:number of mispredictions:	193749
+gshare_14_4_gcc_trace.txt:misprediction rate:	9.69%
+gshare_14_5_gcc_trace.txt:number of mispredictions:	188290
+gshare_14_5_gcc_trace.txt:misprediction rate:	9.41%
+gshare_14_6_gcc_trace.txt:number of mispredictions:	181578
+gshare_14_6_gcc_trace.txt:misprediction rate:	9.08%
+gshare_14_7_gcc_trace.txt:number of mispredictions:	183176
+gshare_14_7_gcc_trace.txt:misprediction rate:	9.16%
+gshare_14_8_gcc_trace.txt:number of mispredictions:	186773
+gshare_14_8_gcc_trace.txt:misprediction rate:	9.34%
+gshare_14_9_gcc_trace.txt:number of mispredictions:	191331
+gshare_14_9_gcc_trace.txt:misprediction rate:	9.57%
+gshare_15_0_gcc_trace.txt:number of mispredictions:	225919
+gshare_15_0_gcc_trace.txt:misprediction rate:	11.30%
+gshare_15_10_gcc_trace.txt:number of mispredictions:	169199
+gshare_15_10_gcc_trace.txt:misprediction rate:	8.46%
+gshare_15_11_gcc_trace.txt:number of mispredictions:	175063
+gshare_15_11_gcc_trace.txt:misprediction rate:	8.75%
+gshare_15_12_gcc_trace.txt:number of mispredictions:	180288
+gshare_15_12_gcc_trace.txt:misprediction rate:	9.01%
+gshare_15_13_gcc_trace.txt:number of mispredictions:	184080
+gshare_15_13_gcc_trace.txt:misprediction rate:	9.20%
+gshare_15_14_gcc_trace.txt:number of mispredictions:	189624
+gshare_15_14_gcc_trace.txt:misprediction rate:	9.48%
+gshare_15_15_gcc_trace.txt:number of mispredictions:	197053
+gshare_15_15_gcc_trace.txt:misprediction rate:	9.85%
+gshare_15_1_gcc_trace.txt:number of mispredictions:	211508
+gshare_15_1_gcc_trace.txt:misprediction rate:	10.58%
+gshare_15_2_gcc_trace.txt:number of mispredictions:	202548
+gshare_15_2_gcc_trace.txt:misprediction rate:	10.13%
+gshare_15_3_gcc_trace.txt:number of mispredictions:	192889
+gshare_15_3_gcc_trace.txt:misprediction rate:	9.64%
+gshare_15_4_gcc_trace.txt:number of mispredictions:	182655
+gshare_15_4_gcc_trace.txt:misprediction rate:	9.13%
+gshare_15_5_gcc_trace.txt:number of mispredictions:	174972
+gshare_15_5_gcc_trace.txt:misprediction rate:	8.75%
+gshare_15_6_gcc_trace.txt:number of mispredictions:	166079
+gshare_15_6_gcc_trace.txt:misprediction rate:	8.30%
+gshare_15_7_gcc_trace.txt:number of mispredictions:	164059
+gshare_15_7_gcc_trace.txt:misprediction rate:	8.20%
+gshare_15_8_gcc_trace.txt:number of mispredictions:	164321
+gshare_15_8_gcc_trace.txt:misprediction rate:	8.22%
+gshare_15_9_gcc_trace.txt:number of mispredictions:	164589
+gshare_15_9_gcc_trace.txt:misprediction rate:	8.23%
+gshare_16_0_gcc_trace.txt:number of mispredictions:	224123
+gshare_16_0_gcc_trace.txt:misprediction rate:	11.21%
+gshare_16_10_gcc_trace.txt:number of mispredictions:	152164
+gshare_16_10_gcc_trace.txt:misprediction rate:	7.61%
+gshare_16_11_gcc_trace.txt:number of mispredictions:	154380
+gshare_16_11_gcc_trace.txt:misprediction rate:	7.72%
+gshare_16_12_gcc_trace.txt:number of mispredictions:	157281
+gshare_16_12_gcc_trace.txt:misprediction rate:	7.86%
+gshare_16_13_gcc_trace.txt:number of mispredictions:	161645
+gshare_16_13_gcc_trace.txt:misprediction rate:	8.08%
+gshare_16_14_gcc_trace.txt:number of mispredictions:	166826
+gshare_16_14_gcc_trace.txt:misprediction rate:	8.34%
+gshare_16_15_gcc_trace.txt:number of mispredictions:	171193
+gshare_16_15_gcc_trace.txt:misprediction rate:	8.56%
+gshare_16_16_gcc_trace.txt:number of mispredictions:	174928
+gshare_16_16_gcc_trace.txt:misprediction rate:	8.75%
+gshare_16_1_gcc_trace.txt:number of mispredictions:	210313
+gshare_16_1_gcc_trace.txt:misprediction rate:	10.52%
+gshare_16_2_gcc_trace.txt:number of mispredictions:	198515
+gshare_16_2_gcc_trace.txt:misprediction rate:	9.93%
+gshare_16_3_gcc_trace.txt:number of mispredictions:	186781
+gshare_16_3_gcc_trace.txt:misprediction rate:	9.34%
+gshare_16_4_gcc_trace.txt:number of mispredictions:	175470
+gshare_16_4_gcc_trace.txt:misprediction rate:	8.77%
+gshare_16_5_gcc_trace.txt:number of mispredictions:	168323
+gshare_16_5_gcc_trace.txt:misprediction rate:	8.42%
+gshare_16_6_gcc_trace.txt:number of mispredictions:	157787
+gshare_16_6_gcc_trace.txt:misprediction rate:	7.89%
+gshare_16_7_gcc_trace.txt:number of mispredictions:	151597
+gshare_16_7_gcc_trace.txt:misprediction rate:	7.58%
+gshare_16_8_gcc_trace.txt:number of mispredictions:	151306
+gshare_16_8_gcc_trace.txt:misprediction rate:	7.57%
+gshare_16_9_gcc_trace.txt:number of mispredictions:	149814
+gshare_16_9_gcc_trace.txt:misprediction rate:	7.49%
+gshare_17_0_gcc_trace.txt:number of mispredictions:	223729
+gshare_17_0_gcc_trace.txt:misprediction rate:	11.19%
+gshare_17_10_gcc_trace.txt:number of mispredictions:	142283
+gshare_17_10_gcc_trace.txt:misprediction rate:	7.11%
+gshare_17_11_gcc_trace.txt:number of mispredictions:	140619
+gshare_17_11_gcc_trace.txt:misprediction rate:	7.03%
+gshare_17_12_gcc_trace.txt:number of mispredictions:	143145
+gshare_17_12_gcc_trace.txt:misprediction rate:	7.16%
+gshare_17_13_gcc_trace.txt:number of mispredictions:	146044
+gshare_17_13_gcc_trace.txt:misprediction rate:	7.30%
+gshare_17_14_gcc_trace.txt:number of mispredictions:	147663
+gshare_17_14_gcc_trace.txt:misprediction rate:	7.38%
+gshare_17_15_gcc_trace.txt:number of mispredictions:	150921
+gshare_17_15_gcc_trace.txt:misprediction rate:	7.55%
+gshare_17_16_gcc_trace.txt:number of mispredictions:	154843
+gshare_17_16_gcc_trace.txt:misprediction rate:	7.74%
+gshare_17_17_gcc_trace.txt:number of mispredictions:	160319
+gshare_17_17_gcc_trace.txt:misprediction rate:	8.02%
+gshare_17_1_gcc_trace.txt:number of mispredictions:	208725
+gshare_17_1_gcc_trace.txt:misprediction rate:	10.44%
+gshare_17_2_gcc_trace.txt:number of mispredictions:	197396
+gshare_17_2_gcc_trace.txt:misprediction rate:	9.87%
+gshare_17_3_gcc_trace.txt:number of mispredictions:	184345
+gshare_17_3_gcc_trace.txt:misprediction rate:	9.22%
+gshare_17_4_gcc_trace.txt:number of mispredictions:	172018
+gshare_17_4_gcc_trace.txt:misprediction rate:	8.60%
+gshare_17_5_gcc_trace.txt:number of mispredictions:	163117
+gshare_17_5_gcc_trace.txt:misprediction rate:	8.16%
+gshare_17_6_gcc_trace.txt:number of mispredictions:	151176
+gshare_17_6_gcc_trace.txt:misprediction rate:	7.56%
+gshare_17_7_gcc_trace.txt:number of mispredictions:	146079
+gshare_17_7_gcc_trace.txt:misprediction rate:	7.30%
+gshare_17_8_gcc_trace.txt:number of mispredictions:	142535
+gshare_17_8_gcc_trace.txt:misprediction rate:	7.13%
+gshare_17_9_gcc_trace.txt:number of mispredictions:	140896
+gshare_17_9_gcc_trace.txt:misprediction rate:	7.04%
+gshare_18_0_gcc_trace.txt:number of mispredictions:	223476
+gshare_18_0_gcc_trace.txt:misprediction rate:	11.17%
+gshare_18_10_gcc_trace.txt:number of mispredictions:	134694
+gshare_18_10_gcc_trace.txt:misprediction rate:	6.73%
+gshare_18_11_gcc_trace.txt:number of mispredictions:	135050
+gshare_18_11_gcc_trace.txt:misprediction rate:	6.75%
+gshare_18_12_gcc_trace.txt:number of mispredictions:	135527
+gshare_18_12_gcc_trace.txt:misprediction rate:	6.78%
+gshare_18_13_gcc_trace.txt:number of mispredictions:	136237
+gshare_18_13_gcc_trace.txt:misprediction rate:	6.81%
+gshare_18_14_gcc_trace.txt:number of mispredictions:	138091
+gshare_18_14_gcc_trace.txt:misprediction rate:	6.90%
+gshare_18_15_gcc_trace.txt:number of mispredictions:	139733
+gshare_18_15_gcc_trace.txt:misprediction rate:	6.99%
+gshare_18_16_gcc_trace.txt:number of mispredictions:	143071
+gshare_18_16_gcc_trace.txt:misprediction rate:	7.15%
+gshare_18_17_gcc_trace.txt:number of mispredictions:	146023
+gshare_18_17_gcc_trace.txt:misprediction rate:	7.30%
+gshare_18_18_gcc_trace.txt:number of mispredictions:	149733
+gshare_18_18_gcc_trace.txt:misprediction rate:	7.49%
+gshare_18_1_gcc_trace.txt:number of mispredictions:	208523
+gshare_18_1_gcc_trace.txt:misprediction rate:	10.43%
+gshare_18_2_gcc_trace.txt:number of mispredictions:	196366
+gshare_18_2_gcc_trace.txt:misprediction rate:	9.82%
+gshare_18_3_gcc_trace.txt:number of mispredictions:	183510
+gshare_18_3_gcc_trace.txt:misprediction rate:	9.18%
+gshare_18_4_gcc_trace.txt:number of mispredictions:	170384
+gshare_18_4_gcc_trace.txt:misprediction rate:	8.52%
+gshare_18_5_gcc_trace.txt:number of mispredictions:	161148
+gshare_18_5_gcc_trace.txt:misprediction rate:	8.06%
+gshare_18_6_gcc_trace.txt:number of mispredictions:	149083
+gshare_18_6_gcc_trace.txt:misprediction rate:	7.45%
+gshare_18_7_gcc_trace.txt:number of mispredictions:	142313
+gshare_18_7_gcc_trace.txt:misprediction rate:	7.12%
+gshare_18_8_gcc_trace.txt:number of mispredictions:	138107
+gshare_18_8_gcc_trace.txt:misprediction rate:	6.91%
+gshare_18_9_gcc_trace.txt:number of mispredictions:	135295
+gshare_18_9_gcc_trace.txt:misprediction rate:	6.76%
+gshare_19_0_gcc_trace.txt:number of mispredictions:	223489
+gshare_19_0_gcc_trace.txt:misprediction rate:	11.17%
+gshare_19_10_gcc_trace.txt:number of mispredictions:	130905
+gshare_19_10_gcc_trace.txt:misprediction rate:	6.55%
+gshare_19_11_gcc_trace.txt:number of mispredictions:	129920
+gshare_19_11_gcc_trace.txt:misprediction rate:	6.50%
+gshare_19_12_gcc_trace.txt:number of mispredictions:	129472
+gshare_19_12_gcc_trace.txt:misprediction rate:	6.47%
+gshare_19_13_gcc_trace.txt:number of mispredictions:	129962
+gshare_19_13_gcc_trace.txt:misprediction rate:	6.50%
+gshare_19_14_gcc_trace.txt:number of mispredictions:	131054
+gshare_19_14_gcc_trace.txt:misprediction rate:	6.55%
+gshare_19_15_gcc_trace.txt:number of mispredictions:	133269
+gshare_19_15_gcc_trace.txt:misprediction rate:	6.66%
+gshare_19_16_gcc_trace.txt:number of mispredictions:	135629
+gshare_19_16_gcc_trace.txt:misprediction rate:	6.78%
+gshare_19_17_gcc_trace.txt:number of mispredictions:	137917
+gshare_19_17_gcc_trace.txt:misprediction rate:	6.90%
+gshare_19_18_gcc_trace.txt:number of mispredictions:	140254
+gshare_19_18_gcc_trace.txt:misprediction rate:	7.01%
+gshare_19_19_gcc_trace.txt:number of mispredictions:	143501
+gshare_19_19_gcc_trace.txt:misprediction rate:	7.18%
+gshare_19_1_gcc_trace.txt:number of mispredictions:	208376
+gshare_19_1_gcc_trace.txt:misprediction rate:	10.42%
+gshare_19_2_gcc_trace.txt:number of mispredictions:	196238
+gshare_19_2_gcc_trace.txt:misprediction rate:	9.81%
+gshare_19_3_gcc_trace.txt:number of mispredictions:	182650
+gshare_19_3_gcc_trace.txt:misprediction rate:	9.13%
+gshare_19_4_gcc_trace.txt:number of mispredictions:	170072
+gshare_19_4_gcc_trace.txt:misprediction rate:	8.50%
+gshare_19_5_gcc_trace.txt:number of mispredictions:	159778
+gshare_19_5_gcc_trace.txt:misprediction rate:	7.99%
+gshare_19_6_gcc_trace.txt:number of mispredictions:	147698
+gshare_19_6_gcc_trace.txt:misprediction rate:	7.38%
+gshare_19_7_gcc_trace.txt:number of mispredictions:	140919
+gshare_19_7_gcc_trace.txt:misprediction rate:	7.05%
+gshare_19_8_gcc_trace.txt:number of mispredictions:	135761
+gshare_19_8_gcc_trace.txt:misprediction rate:	6.79%
+gshare_19_9_gcc_trace.txt:number of mispredictions:	132241
+gshare_19_9_gcc_trace.txt:misprediction rate:	6.61%
+gshare_20_0_gcc_trace.txt:number of mispredictions:	223489
+gshare_20_0_gcc_trace.txt:misprediction rate:	11.17%
+gshare_20_10_gcc_trace.txt:number of mispredictions:	128880
+gshare_20_10_gcc_trace.txt:misprediction rate:	6.44%
+gshare_20_11_gcc_trace.txt:number of mispredictions:	127430
+gshare_20_11_gcc_trace.txt:misprediction rate:	6.37%
+gshare_20_12_gcc_trace.txt:number of mispredictions:	127376
+gshare_20_12_gcc_trace.txt:misprediction rate:	6.37%
+gshare_20_13_gcc_trace.txt:number of mispredictions:	127925
+gshare_20_13_gcc_trace.txt:misprediction rate:	6.40%
+gshare_20_14_gcc_trace.txt:number of mispredictions:	127820
+gshare_20_14_gcc_trace.txt:misprediction rate:	6.39%
+gshare_20_15_gcc_trace.txt:number of mispredictions:	128996
+gshare_20_15_gcc_trace.txt:misprediction rate:	6.45%
+gshare_20_16_gcc_trace.txt:number of mispredictions:	131218
+gshare_20_16_gcc_trace.txt:misprediction rate:	6.56%
+gshare_20_17_gcc_trace.txt:number of mispredictions:	132964
+gshare_20_17_gcc_trace.txt:misprediction rate:	6.65%
+gshare_20_18_gcc_trace.txt:number of mispredictions:	135743
+gshare_20_18_gcc_trace.txt:misprediction rate:	6.79%
+gshare_20_19_gcc_trace.txt:number of mispredictions:	138114
+gshare_20_19_gcc_trace.txt:misprediction rate:	6.91%
+gshare_20_1_gcc_trace.txt:number of mispredictions:	208325
+gshare_20_1_gcc_trace.txt:misprediction rate:	10.42%
+gshare_20_20_gcc_trace.txt:number of mispredictions:	140722
+gshare_20_20_gcc_trace.txt:misprediction rate:	7.04%
+gshare_20_2_gcc_trace.txt:number of mispredictions:	196051
+gshare_20_2_gcc_trace.txt:misprediction rate:	9.80%
+gshare_20_3_gcc_trace.txt:number of mispredictions:	182425
+gshare_20_3_gcc_trace.txt:misprediction rate:	9.12%
+gshare_20_4_gcc_trace.txt:number of mispredictions:	169127
+gshare_20_4_gcc_trace.txt:misprediction rate:	8.46%
+gshare_20_5_gcc_trace.txt:number of mispredictions:	159240
+gshare_20_5_gcc_trace.txt:misprediction rate:	7.96%
+gshare_20_6_gcc_trace.txt:number of mispredictions:	146620
+gshare_20_6_gcc_trace.txt:misprediction rate:	7.33%
+gshare_20_7_gcc_trace.txt:number of mispredictions:	139362
+gshare_20_7_gcc_trace.txt:misprediction rate:	6.97%
+gshare_20_8_gcc_trace.txt:number of mispredictions:	134386
+gshare_20_8_gcc_trace.txt:misprediction rate:	6.72%
+gshare_20_9_gcc_trace.txt:number of mispredictions:	130523
+gshare_20_9_gcc_trace.txt:misprediction rate:	6.53%
+gshare_7_0_gcc_trace.txt:number of mispredictions:	532970
+gshare_7_0_gcc_trace.txt:misprediction rate:	26.65%
+gshare_7_1_gcc_trace.txt:number of mispredictions:	554166
+gshare_7_1_gcc_trace.txt:misprediction rate:	27.71%
+gshare_7_2_gcc_trace.txt:number of mispredictions:	579675
+gshare_7_2_gcc_trace.txt:misprediction rate:	28.98%
+gshare_7_3_gcc_trace.txt:number of mispredictions:	599693
+gshare_7_3_gcc_trace.txt:misprediction rate:	29.98%
+gshare_7_4_gcc_trace.txt:number of mispredictions:	615177
+gshare_7_4_gcc_trace.txt:misprediction rate:	30.76%
+gshare_7_5_gcc_trace.txt:number of mispredictions:	638009
+gshare_7_5_gcc_trace.txt:misprediction rate:	31.90%
+gshare_7_6_gcc_trace.txt:number of mispredictions:	664406
+gshare_7_6_gcc_trace.txt:misprediction rate:	33.22%
+gshare_7_7_gcc_trace.txt:number of mispredictions:	676757
+gshare_7_7_gcc_trace.txt:misprediction rate:	33.84%
+gshare_8_0_gcc_trace.txt:number of mispredictions:	448572
+gshare_8_0_gcc_trace.txt:misprediction rate:	22.43%
+gshare_8_1_gcc_trace.txt:number of mispredictions:	465325
+gshare_8_1_gcc_trace.txt:misprediction rate:	23.27%
+gshare_8_2_gcc_trace.txt:number of mispredictions:	503567
+gshare_8_2_gcc_trace.txt:misprediction rate:	25.18%
+gshare_8_3_gcc_trace.txt:number of mispredictions:	519131
+gshare_8_3_gcc_trace.txt:misprediction rate:	25.96%
+gshare_8_4_gcc_trace.txt:number of mispredictions:	531458
+gshare_8_4_gcc_trace.txt:misprediction rate:	26.57%
+gshare_8_5_gcc_trace.txt:number of mispredictions:	547006
+gshare_8_5_gcc_trace.txt:misprediction rate:	27.35%
+gshare_8_6_gcc_trace.txt:number of mispredictions:	556476
+gshare_8_6_gcc_trace.txt:misprediction rate:	27.82%
+gshare_8_7_gcc_trace.txt:number of mispredictions:	591769
+gshare_8_7_gcc_trace.txt:misprediction rate:	29.59%
+gshare_8_8_gcc_trace.txt:number of mispredictions:	611232
+gshare_8_8_gcc_trace.txt:misprediction rate:	30.56%
+gshare_9_0_gcc_trace.txt:number of mispredictions:	369866
+gshare_9_0_gcc_trace.txt:misprediction rate:	18.49%
+gshare_9_1_gcc_trace.txt:number of mispredictions:	376634
+gshare_9_1_gcc_trace.txt:misprediction rate:	18.83%
+gshare_9_2_gcc_trace.txt:number of mispredictions:	404948
+gshare_9_2_gcc_trace.txt:misprediction rate:	20.25%
+gshare_9_3_gcc_trace.txt:number of mispredictions:	433345
+gshare_9_3_gcc_trace.txt:misprediction rate:	21.67%
+gshare_9_4_gcc_trace.txt:number of mispredictions:	448594
+gshare_9_4_gcc_trace.txt:misprediction rate:	22.43%
+gshare_9_5_gcc_trace.txt:number of mispredictions:	468306
+gshare_9_5_gcc_trace.txt:misprediction rate:	23.42%
+gshare_9_6_gcc_trace.txt:number of mispredictions:	482866
+gshare_9_6_gcc_trace.txt:misprediction rate:	24.14%
+gshare_9_7_gcc_trace.txt:number of mispredictions:	496805
+gshare_9_7_gcc_trace.txt:misprediction rate:	24.84%
+gshare_9_8_gcc_trace.txt:number of mispredictions:	521585
+gshare_9_8_gcc_trace.txt:misprediction rate:	26.08%
+gshare_9_9_gcc_trace.txt:number of mispredictions:	535800
+gshare_9_9_gcc_trace.txt:misprediction rate:	26.79%
+jpeg_trace.txt_bimodal_10_jpeg_trace.txt: number of mispredictions:	154097
+jpeg_trace.txt_bimodal_10_jpeg_trace.txt: misprediction rate:	7.70%
+jpeg_trace.txt_bimodal_11_jpeg_trace.txt: number of mispredictions:	152314
+jpeg_trace.txt_bimodal_11_jpeg_trace.txt: misprediction rate:	7.62%
+jpeg_trace.txt_bimodal_12_jpeg_trace.txt: number of mispredictions:	151950
+jpeg_trace.txt_bimodal_12_jpeg_trace.txt: misprediction rate:	7.60%
+jpeg_trace.txt_bimodal_13_jpeg_trace.txt: number of mispredictions:	151818
+jpeg_trace.txt_bimodal_13_jpeg_trace.txt: misprediction rate:	7.59%
+jpeg_trace.txt_bimodal_14_jpeg_trace.txt: number of mispredictions:	151753
+jpeg_trace.txt_bimodal_14_jpeg_trace.txt: misprediction rate:	7.59%
+jpeg_trace.txt_bimodal_15_jpeg_trace.txt: number of mispredictions:	151704
+jpeg_trace.txt_bimodal_15_jpeg_trace.txt: misprediction rate:	7.59%
+jpeg_trace.txt_bimodal_16_jpeg_trace.txt: number of mispredictions:	151705
+jpeg_trace.txt_bimodal_16_jpeg_trace.txt: misprediction rate:	7.59%
+jpeg_trace.txt_bimodal_17_jpeg_trace.txt: number of mispredictions:	151705
+jpeg_trace.txt_bimodal_17_jpeg_trace.txt: misprediction rate:	7.59%
+jpeg_trace.txt_bimodal_18_jpeg_trace.txt: number of mispredictions:	151705
+jpeg_trace.txt_bimodal_18_jpeg_trace.txt: misprediction rate:	7.59%
+jpeg_trace.txt_bimodal_19_jpeg_trace.txt: number of mispredictions:	151705
+jpeg_trace.txt_bimodal_19_jpeg_trace.txt: misprediction rate:	7.59%
+jpeg_trace.txt_bimodal_20_jpeg_trace.txt: number of mispredictions:	151705
+jpeg_trace.txt_bimodal_20_jpeg_trace.txt: misprediction rate:	7.59%
+jpeg_trace.txt_bimodal_7_jpeg_trace.txt: number of mispredictions:	158454
+jpeg_trace.txt_bimodal_7_jpeg_trace.txt: misprediction rate:	7.92%
+jpeg_trace.txt_bimodal_8_jpeg_trace.txt: number of mispredictions:	155757
+jpeg_trace.txt_bimodal_8_jpeg_trace.txt: misprediction rate:	7.79%
+jpeg_trace.txt_bimodal_9_jpeg_trace.txt: number of mispredictions:	154753
+jpeg_trace.txt_bimodal_9_jpeg_trace.txt: misprediction rate:	7.74%
+perl_trace.txt_bimodal_10_perl_trace.txt: number of mispredictions:	238913
+perl_trace.txt_bimodal_10_perl_trace.txt: misprediction rate:	11.95%
+perl_trace.txt_bimodal_11_perl_trace.txt: number of mispredictions:	220928
+perl_trace.txt_bimodal_11_perl_trace.txt: misprediction rate:	11.05%
+perl_trace.txt_bimodal_12_perl_trace.txt: number of mispredictions:	181800
+perl_trace.txt_bimodal_12_perl_trace.txt: misprediction rate:	9.09%
+perl_trace.txt_bimodal_13_perl_trace.txt: number of mispredictions:	178484
+perl_trace.txt_bimodal_13_perl_trace.txt: misprediction rate:	8.92%
+perl_trace.txt_bimodal_14_perl_trace.txt: number of mispredictions:	176448
+perl_trace.txt_bimodal_14_perl_trace.txt: misprediction rate:	8.82%
+perl_trace.txt_bimodal_15_perl_trace.txt: number of mispredictions:	176386
+perl_trace.txt_bimodal_15_perl_trace.txt: misprediction rate:	8.82%
+perl_trace.txt_bimodal_16_perl_trace.txt: number of mispredictions:	176621
+perl_trace.txt_bimodal_16_perl_trace.txt: misprediction rate:	8.83%
+perl_trace.txt_bimodal_17_perl_trace.txt: number of mispredictions:	176621
+perl_trace.txt_bimodal_17_perl_trace.txt: misprediction rate:	8.83%
+perl_trace.txt_bimodal_18_perl_trace.txt: number of mispredictions:	176621
+perl_trace.txt_bimodal_18_perl_trace.txt: misprediction rate:	8.83%
+perl_trace.txt_bimodal_19_perl_trace.txt: number of mispredictions:	176621
+perl_trace.txt_bimodal_19_perl_trace.txt: misprediction rate:	8.83%
+perl_trace.txt_bimodal_20_perl_trace.txt: number of mispredictions:	176621
+perl_trace.txt_bimodal_20_perl_trace.txt: misprediction rate:	8.83%
+perl_trace.txt_bimodal_7_perl_trace.txt: number of mispredictions:	426289
+perl_trace.txt_bimodal_7_perl_trace.txt: misprediction rate:	21.31%
+perl_trace.txt_bimodal_8_perl_trace.txt: number of mispredictions:	329056
+perl_trace.txt_bimodal_8_perl_trace.txt: misprediction rate:	16.45%
+perl_trace.txt_bimodal_9_perl_trace.txt: number of mispredictions:	282848
+perl_trace.txt_bimodal_9_perl_trace.txt: misprediction rate:	14.14%

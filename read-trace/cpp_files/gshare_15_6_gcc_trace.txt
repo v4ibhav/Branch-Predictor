@@ -1,0 +1,6 @@
+COMMAND
+./sim gshare 15 6 traces/gcc_trace.txt
+OUTPUT
+number of predictions:	2000000
+number of mispredictions:	166079
+misprediction rate:	8.30%

@@ -1,0 +1,6 @@
+COMMAND
+./sim bimodal 11 traces/jpeg_trace.txt
+OUTPUT
+ number of predictions:	2000000
+ number of mispredictions:	152314
+ misprediction rate:	7.62%
